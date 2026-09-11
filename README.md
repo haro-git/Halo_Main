@@ -8,7 +8,7 @@
 
 <a href="mailto:submin47@gmail.com"><img src="https://img.shields.io/badge/Email-submin47@gmail.com-F59E0B?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 <img src="https://img.shields.io/badge/Goal-AGI%20Humanoid-1E3A5F?style=for-the-badge" alt="goal"/>
-<img src="https://img.shields.io/badge/Now-The%20Hand-D97706?style=for-the-badge" alt="now"/>
+<img src="https://img.shields.io/badge/Now-The%20Right_Arm-D97706?style=for-the-badge" alt="now"/>
 <img src="https://komarev.com/ghpvc/?username=haro-git&style=for-the-badge&color=0B1120&label=PROFILE+VIEWS" alt="views"/>
 
 </div>
